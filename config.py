@@ -1,0 +1,6 @@
+customhost = "vishwam.c34cup78prcj.us-east-1.rds.amazonaws.com"
+customuser = "vishwam"
+custompass = "vishwam12345"
+customdb = "employee"
+custombucket = "employe007"
+customregion = "us-east-1"
